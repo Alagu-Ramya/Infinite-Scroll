@@ -39,7 +39,7 @@ h1 {
 
 /* Image Container*/
 .image-container {
-	margin: 10px 20%;
+	margin: 10px;
 }
 
 .image-container img {
@@ -51,8 +51,5 @@ h1 {
 @media screen and (max-width: 600px) {
 	h1 {
 		font-size: 20px;
-	}
-	.image-container {
-		margin: 10px;
 	}
 }
